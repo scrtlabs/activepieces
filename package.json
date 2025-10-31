@@ -293,7 +293,7 @@
     "tslib": "2.6.2",
     "turndown": "7.2.0",
     "twitter-api-v2": "1.15.1",
-    "typeorm": "0.3.18",
+    "typeorm": "0.3.27",
     "url": "0.11.3",
     "use-debounce": "10.0.1",
     "use-deep-compare-effect": "1.8.1",
