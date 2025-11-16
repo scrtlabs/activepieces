@@ -190,7 +190,7 @@
     "is-base64": "1.1.0",
     "isolated-vm": "5.0.1",
     "jimp": "0.22.12",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "jsdom": "23.0.1",
     "jshint": "2.13.6",
     "json-server": "1.0.0-beta.0",
