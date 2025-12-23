@@ -203,7 +203,7 @@
     "jszip": "3.10.1",
     "jwks-rsa": "3.1.0",
     "jwt-decode": "4.0.0",
-    "langchain": "0.3.3",
+    "langchain": "0.3.37",
     "lottie-web": "5.12.2",
     "lru-cache": "11.0.2",
     "lucide-react": "0.407.0",
